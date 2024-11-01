@@ -1,0 +1,14 @@
+fieldset.itemlist {
+    border: 1px solid #BBBBBB;
+    font-size: 12px !important;
+    margin: 15px 5px;
+    padding: 10px;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+fieldset.itemlist legend {
+    background: url("suggestion-icon.png") no-repeat scroll 0 0 transparent;
+    font-size: 13px !important;
+    padding-left: 18px;
+}

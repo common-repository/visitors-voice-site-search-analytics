@@ -1,0 +1,87 @@
+.dataTables_filter input {
+    width:90%;
+    max-width:80px;
+	min-width:50px;
+}
+
+.dataTable {
+	margin-bottom:8px !important; 
+    border-spacing: 0;
+}
+
+.dataTables_length {
+	padding-bottom: 8px;
+}
+
+.dataTable {
+	border:1px solid black;
+}
+
+#page_suggestion_list_table_filter  input {
+    width:100%;
+    max-width:180px;
+	min-width:150px;
+}
+
+#page_suggestion_list_table_wrapper {
+	width:95%;
+	font-size: 100%;
+    font-weight: normal;
+}
+
+.dataTable th,.dataTable td{
+	text-align: left;
+    font-weight: normal;
+	color: #333333;
+	font-size: 12px;
+}
+
+#searchterms_refinements_table tr.odd.gradeX td.sorting_1, #page_suggestion_list_table tr.odd.gradeX td.sorting_1, #incoming_searchterms_table tr.odd.gradeX td.sorting_1, #incoming_keywords_table tr.odd.gradeX td.sorting_1, #outgoing_searchterms_table tr.odd.gradeX td.sorting_1{
+	background-color: #DDEDED;
+	padding: 8px 8px;
+}
+
+#searchterms_refinements_table tr.even.gradeX td.sorting_1, #page_suggestion_list_table tr.even.gradeX td.sorting_1, #incoming_searchterms_table tr.even.gradeX td.sorting_1, #incoming_keywords_table tr.even.gradeX td.sorting_1, #outgoing_searchterms_table  tr.even.gradeX td.sorting_1{
+	background-color: #DDEDED;
+	padding: 8px 8px;
+}
+
+#searchterms_refinements_table tr.odd.gradeX td, #page_suggestion_list_table tr.odd.gradeX td, #incoming_searchterms_table tr.odd.gradeX td, #incoming_keywords_table tr.odd.gradeX td, #outgoing_searchterms_table  tr.odd.gradeX td{
+	background-color: #F4F9F9;
+	padding: 8px 8px;
+}
+
+#searchterms_refinements_table tr.even.gradeX td, #page_suggestion_list_table tr.even.gradeX td, #incoming_searchterms_table tr.even.gradeX td, #incoming_keywords_table tr.even.gradeX td, #outgoing_searchterms_table  tr.even.gradeX td{
+	background-color: #F4F9F9;
+	padding: 8px 8px;
+}
+
+#visitorsvoice_pagelist_suggestion.itemlist {
+	width: 90%;
+	max-width:800px;
+	min-width:300px;
+}
+
+#visitorsvoice_heading h2 {
+	color: #464646;
+}
+
+#configuration-box table {
+	background-color: #F9F9F9;
+    border-color: #DFDFDF;
+	width: 650px;
+}
+#icon-visitorsvoice-page{
+	background-image: url("../assets/visitorsvoice_logo_page.png");
+	float: left;
+    height: 34px;
+    margin: 7px 8px 0 0;
+    width: 36px;
+	background-color: rgba(0, 0, 0, 0);
+    background-repeat: no-repeat
+}
+
+.open-in-new-ico {
+    padding-left: 2px;
+    padding-top: 1px;
+}

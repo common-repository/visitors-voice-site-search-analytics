@@ -1,0 +1,633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visitors Voice wordpress plugin\n"
+"POT-Creation-Date: 2014-02-13 22:29+0100\n"
+"PO-Revision-Date: 2014-02-13 22:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Swedish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../class-visitorsvoice-metabox.php:86
+msgid "Visitors Voice - Site Search Statistics"
+msgstr "Visitors Voice - statistik från er sökmotor"
+
+#: ../class-visitorsvoice-metabox.php:131
+msgid "Keyword suggestions"
+msgstr "Förslag på nyckelord"
+
+#: ../class-visitorsvoice-metabox.php:132
+msgid ""
+"Users has searched for the initial search terms below, then refined their "
+"searches and clicked on this page in the search engine hit list. Consider to "
+"use the search terms in your content or add them to the keywords of this "
+"page in order to promote them in the search engine hit list:"
+msgstr ""
+"Sökorden nedan har omformulerats och sedan har användarna klickat på den här "
+"sidan i sökträfflistan. Det kan betyda att sökorden passar som nyckelord för "
+"den här sidan:"
+
+#: ../class-visitorsvoice-metabox.php:137
+msgid "Initial search terms"
+msgstr "Sökorden"
+
+#: ../class-visitorsvoice-metabox.php:138
+msgid "Refinements"
+msgstr "Omformuleringar"
+
+#: ../class-visitorsvoice-metabox.php:139
+#: ../class-visitorsvoice-metabox.php:218
+#: ../class-visitorsvoice-metabox.php:259
+#: ../class-visitorsvoice-metabox.php:303
+msgid "Users"
+msgstr "Antal besökare som sökt"
+
+#: ../class-visitorsvoice-metabox.php:141
+msgid "Add initial search term to keywords"
+msgstr "Lägg till sökordet som nyckelord"
+
+#: ../class-visitorsvoice-metabox.php:195
+msgid "Mark all these keyword suggestions as fixed"
+msgstr ""
+"Gått igenom alla förslag? (OBS: Kräver INTE att du har lagt till alla "
+"nyckelordsförslag, bara att du har tagit alla i beaktning och inte vill se "
+"dem igen) "
+
+#: ../class-visitorsvoice-metabox.php:206
+msgid "Search terms related to the page"
+msgstr "Interna sökord som använts av de som besökt sidan"
+
+#: ../class-visitorsvoice-metabox.php:208
+#: ../class-visitorsvoice-metabox.php:213
+msgid "Outgoing"
+msgstr "Sökord som besökarna har använt på sidan"
+
+#: ../class-visitorsvoice-metabox.php:209
+#: ../class-visitorsvoice-metabox.php:253
+msgid "Incoming"
+msgstr "Sökord som tagit besökare till sidan"
+
+#: ../class-visitorsvoice-metabox.php:210
+#: ../class-visitorsvoice-metabox.php:297
+msgid "External"
+msgstr "Sökord från Google"
+
+#: ../class-visitorsvoice-metabox.php:217
+#: ../class-visitorsvoice-metabox.php:257
+msgid "Search terms"
+msgstr "Sökord"
+
+#: ../class-visitorsvoice-metabox.php:219
+msgid "Users that found"
+msgstr "Besökare som hittat när de sökt"
+
+#: ../class-visitorsvoice-metabox.php:220
+#: ../class-visitorsvoice-metabox.php:260
+msgid "Analyze search terms"
+msgstr "Visa en analys av sökordet"
+
+#: ../class-visitorsvoice-metabox.php:235
+#: ../class-visitorsvoice-metabox.php:242
+#: ../class-visitorsvoice-metabox.php:276
+#: ../class-visitorsvoice-metabox.php:285
+msgid "Analyze"
+msgstr "Visa analys"
+
+#: ../class-visitorsvoice-metabox.php:258
+#: ../class-visitorsvoice-metabox.php:302
+msgid "Count"
+msgstr "Antal sökningar"
+
+#: ../class-visitorsvoice-metabox.php:301
+msgid "Keywords"
+msgstr "Nyckelord"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:41
+msgid "Visitors Voice - Site Search Statitics that matters"
+msgstr "Visitors Voice spårar sökstatistik från er interna sökmotor"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:42
+msgid "Are you an editor?"
+msgstr "Visitors Voice för dig som är redaktör"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:43
+msgid ""
+"When you edit a page Visitors Voice will display which search terms the "
+"users searched for before they entered the page."
+msgstr ""
+"När du arbetar med en sida visar Visitors Voice sökorden som lett användare "
+"till sidan."
+
+#: ../class-visitorsvoice-page-suggestions-page.php:47
+msgid ""
+"Visitors Voice will also show which search terms the users used leaving your "
+"page. Together this might give you a better understanding of what is asked "
+"from your page."
+msgstr ""
+"Visitors Voice visar också vilka sökord som besökarna använder på sidan. "
+"Sammantaget kan det ge er en bättre förståelse för vad som är viktigt med "
+"sidan. Och vad som eventuellt saknas."
+
+#: ../class-visitorsvoice-page-suggestions-page.php:51
+msgid "Number of days back Visitors Voice get statistics for: "
+msgstr "Antal dagar som Visitors Voice hämtar statistik:"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:55
+msgid "Are you the Site Search owner?"
+msgstr "Visitors Voice för dig som sökmotoransvarig"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:57
+msgid ""
+"Visitors Voice suggests keywords for pages based on if there are users "
+"refining their searches before they click on the page in the search engine "
+"result list."
+msgstr ""
+"Visitors Voice föreslår nyckelord för sidor baserat på om användarna har "
+"sökt efter något, sedan omformulerat sin sökning och därefter klickat in på "
+"sidan. Det ursprungliga sökordet som omformulerats kan ofta fungera som ett "
+"nyckelord."
+
+#: ../class-visitorsvoice-page-suggestions-page.php:61
+msgid "Number of days before Visitors Voice checks for new suggestions: "
+msgstr "Antal dagar innan Visitors Voice hämtar nya förslag på nyckelord:"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:65
+msgid "The list below shows pages with keyword suggestions:"
+msgstr "Listan nedan visar sidor med nyckelordsförslag:"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:72
+msgid "Congratulations, all suggestions have been fixed."
+msgstr "Gratulerar, alla nyckelordsförslag är fixade."
+
+#: ../class-visitorsvoice-page-suggestions-page.php:91
+msgid "Title"
+msgstr "Titel"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:92
+msgid "Author"
+msgstr "Författare"
+
+#: ../class-visitorsvoice-page-suggestions-page.php:93
+msgid "Pagestatus"
+msgstr "Sidstatus"
+
+#: ../class-visitorsvoice-plugin.php:648 ../visitorsvoice-authorize-page.php:3
+#: ../visitorsvoice-configuration-page.php:14
+#: ../visitorsvoice-controls-page.php:14
+msgid "Visitors Voice Plugin"
+msgstr "Visitors Voice Plugin"
+
+#: ../class-visitorsvoice-plugin.php:650
+msgid ""
+"The Visitors Voice plugin needs to be configured, before you can continue. "
+"Configure Visitors Voice plugin here <a href='admin.php?"
+"page=visitorsvoice'>here</a>."
+msgstr ""
+"The Visitors Voice plugin needs to be configured, before you can continue. "
+"Configure Visitors Voice plugin here <a href='admin.php?"
+"page=visitorsvoice'>here</a>."
+
+#: ../class-visitorsvoice-plugin.php:652
+msgid ""
+"If you don't have a Visitors Voice account, use our <a href=\"http://en."
+"visitorsvoice.com/signup/\" target=\"_new\"> free trial</a>"
+msgstr ""
+"Om du inte har något Visitors Voice konto, pröva kostnadsfritt <a href="
+"\"http://en.visitorsvoice.com/signup/\" target=\"_new\"> här</a>."
+
+#: ../class-visitorsvoice-plugin.php:654
+msgid ""
+"Read more about <a href=\"http://en.visitorsvoice.com/visitors-voice-for-"
+"wordpress/\" target=\"_new\">Visitors Voice for WordPress</a>."
+msgstr ""
+"Read more about <a href=\"http://en.visitorsvoice.com/visitors-voice-for-"
+"wordpress/\" target=\"_new\">Visitors Voice for WordPress</a>."
+
+#: ../class-visitorsvoice-plugin.php:693
+msgid "Searchterm list"
+msgstr "Sökordslista"
+
+#: ../class-visitorsvoice-plugin.php:703
+msgid "Total search quality"
+msgstr "Total sökkvalitet"
+
+#: ../class-visitorsvoice-plugin.php:713
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../visitorsvoice-authorize-page.php:5 ../visitorsvoice-controls-page.php:16
+msgid ""
+"Visitors Voice will show your visitors search behavior for each url and give "
+"suggestions how you can improve your content and metadata."
+msgstr ""
+"Visitors Voice visar vad era besökare söker efter och ger förslag på "
+"innehåll och nyckelord."
+
+#: ../visitorsvoice-authorize-page.php:7
+msgid ""
+"If you don't have a Visitors Voice account, use our <a href=\"http://en."
+"visitorsvoice.com/sign-up-for-free-trial/\" target=\"_new\"> free trial</a> "
+"or apply for a <a href=\"http://en.visitorsvoice.com/apply-for-a-developer-"
+"account/\" target=\"_new\"> developer account</a>."
+msgstr ""
+"Om du saknar If you don't have a Visitors Voice account, use our <a href="
+"\"http://en.visitorsvoice.com/sign-up-for-free-trial/\" target=\"_new\"> "
+"free trial</a> or apply for a <a href=\"http://en.visitorsvoice.com/apply-"
+"for-a-developer-account/\" target=\"_new\"> developer account</a>."
+
+#: ../visitorsvoice-authorize-page.php:9
+msgid ""
+"Read more about <a href=\"http://en.visitorsvoice.com/site-search-analytics-"
+"for-wordpress/\" target=\"_new\">Visitors Voice for WordPress</a>."
+msgstr ""
+"Read more about <a href=\"http://en.visitorsvoice.com/site-search-analytics-"
+"for-wordpress/\" target=\"_new\">Visitors Voice for WordPress</a>."
+
+#: ../visitorsvoice-authorize-page.php:17
+msgid "Configure the plugin - step 1(2)"
+msgstr "Konfigurera pluginen - steg 1(2)"
+
+#: ../visitorsvoice-authorize-page.php:23
+msgid ""
+"Please enter your Visitors Voice API key in the field below and click "
+"'Authorize' to get started."
+msgstr ""
+"Please enter your Visitors Voice API key in the field below and click "
+"'Authorize' to get started."
+
+#: ../visitorsvoice-authorize-page.php:24
+msgid ""
+"You will find your API Key at the top of the <b>My Account</b>-settings "
+"screen in your <a href='http://service.visitorsvoice.com/' "
+"target='_new'>Visitors Voice Dashboard</a>.<br/><br/>"
+msgstr ""
+"API nyckeln finns under Inställningar i<a href='http://service.visitorsvoice."
+"com/' target='_new'>Visitors Voice dashboard</a>.<br/><br/>"
+
+#: ../visitorsvoice-authorize-page.php:28
+#: ../visitorsvoice-configuration-page.php:29
+#: ../visitorsvoice-controls-page.php:31
+msgid "API Key"
+msgstr "API nyckel"
+
+#: ../visitorsvoice-authorize-page.php:30
+msgid "Authorize"
+msgstr "Auktorisera"
+
+#: ../visitorsvoice-authorize-page.php:31
+msgid "Want to use test account? API-key: 12345"
+msgstr "Vill du använda testkonto? Ange då 12345"
+
+#: ../visitorsvoice-configuration-page.php:16
+msgid ""
+"To administer your Visitors Voice account, visit the <a href='http://service."
+"visitorsvoice.com/' target='_new'>Visitors Voice Dashboard</a>"
+msgstr ""
+"För att administrera ert Visitors Voice konto - besök <a href='http://"
+"service.visitorsvoice.com/' target='_new'>Visitors Voice Dashboard</a>"
+
+#: ../visitorsvoice-configuration-page.php:24
+msgid "Visitors Voice Plugin Settings"
+msgstr "Visitors Voice inställningar"
+
+#: ../visitorsvoice-configuration-page.php:33
+msgid "How often Visitors Voice get top priority pages from the API:"
+msgstr "Hur ofta ska visitors Voice hämta sidor med nyckelordsförslag?"
+
+#: ../visitorsvoice-configuration-page.php:34
+#: ../visitorsvoice-configuration-page.php:42
+#: ../visitorsvoice-configuration-page.php:46
+#: ../visitorsvoice-controls-page.php:41 ../visitorsvoice-controls-page.php:51
+#: ../visitorsvoice-controls-page.php:56
+msgid "(days)"
+msgstr "(dagar)"
+
+#: ../visitorsvoice-configuration-page.php:37
+msgid ""
+"Maximum number of top priority pages Visitors Voice could get at a time:"
+msgstr "Maximalt antal sidor med nyckelordsförslag som hämtas per tillfälle:"
+
+#: ../visitorsvoice-configuration-page.php:38
+#: ../visitorsvoice-controls-page.php:46
+msgid "(pages)"
+msgstr "(sidor)"
+
+#: ../visitorsvoice-configuration-page.php:41
+msgid "Number of days before a fixed suggestion could appear again:"
+msgstr ""
+"Antal dagar innan ett förslag som åtgärdats eller beaktats kan visas igen:"
+
+#: ../visitorsvoice-configuration-page.php:45
+msgid "Number of days back to display search terms for a page:"
+msgstr "Antal dagar tillbaka som sökstatistik visas i editeringsläget:"
+
+#: ../visitorsvoice-configuration-page.php:50
+msgid "Your internal site search url:"
+msgstr "Er sidas interna sökurl:"
+
+#: ../visitorsvoice-configuration-page.php:57
+msgid "Your customized Google search url:"
+msgstr "Googles sökurl:"
+
+#: ../visitorsvoice-configuration-page.php:64
+#: ../visitorsvoice-controls-page.php:71
+msgid ""
+"In order to make this plugin work, you need a separate plugin for handlng "
+"keywords metadata."
+msgstr ""
+"För att den här pluginen ska fungera optimalt behöver du en separat plugin "
+"för att hantera metadata för nyckelord/keywords"
+
+#: ../visitorsvoice-configuration-page.php:66
+#: ../visitorsvoice-controls-page.php:73
+msgid ""
+"Specify post meta field name for the plugin that manages keywords metadata:"
+msgstr ""
+"Definiera post meta fält för den plugin som hanterar metadata för nyckelord/"
+"keywords:"
+
+#: ../visitorsvoice-configuration-page.php:72
+#: ../visitorsvoice-controls-page.php:77
+msgid "Save"
+msgstr "Spara"
+
+#: ../visitorsvoice-configuration-page.php:81
+#: ../visitorsvoice-controls-page.php:88
+msgid ""
+"If you're having trouble with the Visitors Voice plugin you may clear your "
+"configuration by clicking the button below. This will remove all data stored "
+"for the plugin."
+msgstr ""
+"If you're having trouble with the Visitors Voice plugin you may clear your "
+"configuration by clicking the button below. This will remove all data stored "
+"for the plugin."
+
+#: ../visitorsvoice-configuration-page.php:86
+#: ../visitorsvoice-controls-page.php:93
+msgid "Clear Visitors Voice Configuration"
+msgstr "Nollställ Visitors Voices konfiguration"
+
+#: ../visitorsvoice-controls-page.php:18
+msgid ""
+"To administer your Visitors Voice account, you need to login to <a "
+"href='http://service.visitorsvoice.com/' target='_new'>Visitors Voice "
+"Dashboard</a>"
+msgstr ""
+"För att administrera ert Visitors Voice konto - besök <a href='http://"
+"service.visitorsvoice.com/' target='_new'>Visitors Voice Dashboard</a>"
+
+#: ../visitorsvoice-controls-page.php:26
+msgid "Configure the plugin - step 2(2)"
+msgstr "Konfigurera pluginen - steg 2(2)"
+
+#: ../visitorsvoice-controls-page.php:36
+msgid ""
+"Visitors Voice analyzes your visitors search and click behavior in order to "
+"find suggestions for you to improve the content and metadata of your pages. "
+"This might help more visitors find them; both in your internal search engine "
+"as well as the external search engines like Google."
+msgstr ""
+"Visitors Voice analyserar sök- och klickbeteenden och föreslår hur ni kan "
+"förbättra ert innehåll och metadata."
+
+#: ../visitorsvoice-controls-page.php:39
+msgid "How often should Visitors Voice get top priority pages from the API?"
+msgstr "Hur ofta ska Visitors Voice hämta sidor med nyckelordsförslag?"
+
+#: ../visitorsvoice-controls-page.php:44
+msgid ""
+"How many top priority pages should Visitors Voice get from the API at the "
+"most?"
+msgstr ""
+"Hur många sidor med nyckelordsförslag ska Visitors Voice hämta som mest?"
+
+#: ../visitorsvoice-controls-page.php:49
+msgid ""
+"How many days must pass before a suggestion you have fixed for a page could "
+"appear again?"
+msgstr "Hur många dagar måste passera innan ett förslag kan visas på nytt?"
+
+#: ../visitorsvoice-controls-page.php:54
+msgid "How many days back to display search terms for a page?"
+msgstr "How många dagar tillbaka ska sökstatistik visas i editeringsläget?"
+
+#: ../visitorsvoice-controls-page.php:59
+msgid ""
+"Your internal site search url. Replace the search term in the url with "
+"##SEARCHTERM##:"
+msgstr "Er sidas interna sökurl (ersätt sökordet med ##SEARCHTERM##):"
+
+#: ../visitorsvoice-controls-page.php:62
+msgid "<i>http://www.yourdomain.com?q=##SEARCHTERM##</i>"
+msgstr "<i>http://www.yourdomain.com?q=##SEARCHTERM##</i>"
+
+#: ../visitorsvoice-controls-page.php:65
+msgid ""
+"Customize your Google search url. Replace the keyword in the url with "
+"##KEYWORD##:"
+msgstr "Anpassa google url:en (ersätt sökordet med ##KEYWORD##):"
+
+#: ../visitorsvoice-controls-page.php:68
+msgid "<i>http://www.google.se/?#q=##KEYWORD##</i>"
+msgstr "<i>http://www.google.se/?#q=##KEYWORD##</i>"
+
+#~ msgid "Visitors Voice"
+#~ msgstr "Visitors Voice"
+
+#~ msgid " days)"
+#~ msgstr " dagar)"
+
+#~ msgid "CTR (%)"
+#~ msgstr "Klickfrekvens i sökmotorns träfflista (%)"
+
+#~ msgid "Initial search term that was later refined."
+#~ msgstr "Sökord som omformulerats"
+
+#~ msgid "Refined search term that led to a click to this page."
+#~ msgstr "Omformuleringen av sökordet"
+
+#~ msgid "Add the search term as a keyword to the keyword post meta field."
+#~ msgstr "Lägg till sökordet som nyckelord för sidan"
+
+#~ msgid "Open the page in new window"
+#~ msgstr "Öppna sidan i nytt fönster"
+
+#~ msgid ""
+#~ "Congratulations, all suggestions have been fixed. If you haven't fixed "
+#~ "any suggestions, perhaps not enough data has been collected yet."
+#~ msgstr ""
+#~ "Congratulations, all suggestions have been fixed. If you haven't fixed "
+#~ "any suggestions, perhaps not enough data has been collected yet."
+
+#~ msgid ""
+#~ "Contact our <a href='http://support.visitorsvoice.com/home' "
+#~ "target='_blank'>support</a> if you have any questions about this."
+#~ msgstr ""
+#~ "Contact our <a href='http://support.visitorsvoice.com/home' "
+#~ "target='_blank'>support</a> if you have any questions about this."
+
+#~ msgid ""
+#~ "Many visitors has <a href='http://api.visitorsvoice.com/Home/"
+#~ "Glossary#refinement' target='_blank'>refined their searches</a> before "
+#~ "they click on the pages below in the <a href='http://api.visitorsvoice."
+#~ "com/Home/Glossary#searchengineresultlist' target='_blank'>search engine "
+#~ "hit list</a>."
+#~ msgstr ""
+#~ "Many visitors has <a href='http://api.visitorsvoice.com/Home/"
+#~ "Glossary#refinement' target='_blank'>refined their searches</a> before "
+#~ "they click on the pages below in the <a href='http://api.visitorsvoice."
+#~ "com/Home/Glossary#searchengineresultlist' target='_blank'>search engine "
+#~ "hit list</a>."
+
+#~ msgid ""
+#~ "Consider using the initial search terms in your content or as metadata in "
+#~ "order to prioritize the pages in the search engine hit list."
+#~ msgstr ""
+#~ "Consider using the initial search terms in your content or as metadata in "
+#~ "order to prioritize the pages in the search engine hit list."
+
+#~ msgid ""
+#~ "Click on a page below to see the search terms and refinements in order to "
+#~ "update your content and metadata."
+#~ msgstr ""
+#~ "Click on a page below to see the search terms and refinements in order to "
+#~ "update your content and metadata."
+
+#~ msgid ""
+#~ "Consider to add the search terms below as metadata or content for this "
+#~ "page:"
+#~ msgstr ""
+#~ "Consider to add the search terms below as metadata or content for this "
+#~ "page:"
+
+#~ msgid "visitors"
+#~ msgstr "visitors"
+
+#~ msgid ""
+#~ "Visitors Voice needs an API key and User key in order to communicate with "
+#~ "your Visitors Voice account."
+#~ msgstr ""
+#~ "Visitors Voice needs an API key and User key in order to communicate with "
+#~ "your Visitors Voice account."
+
+#~ msgid ""
+#~ "Set your API key and User key <a href='admin.php?"
+#~ "page=visitorsvoice'>here</a>"
+#~ msgstr ""
+#~ "Set your API key and User key <a href='admin.php?"
+#~ "page=visitorsvoice'>here</a>"
+
+#~ msgid ""
+#~ "Visitors Voice has found suggestions for the pages below how to help more "
+#~ "visitors finding them. Click on a page to edit the page where you can "
+#~ "also read the specific suggestions."
+#~ msgstr ""
+#~ "Visitors Voice has found suggestions for the pages below how to help more "
+#~ "visitors finding them. Click on a page to edit the page where you can "
+#~ "also read the specific suggestions."
+
+#~ msgid ""
+#~ "There are suggestions for %d pages that cant be found any longer. This "
+#~ "could be that the permalink for the pages had been changed. Remember "
+#~ "Visitors Voice wordpress plugin need permalinks to be set as post name in "
+#~ "order to work properly."
+#~ msgstr ""
+#~ "There are suggestions for %d pages that cant be found any longer. This "
+#~ "could be that the permalink for the pages had been changed. Remember "
+#~ "Visitors Voice wordpress plugin need permalinks to be set as post name in "
+#~ "order to work properly."
+
+#~ msgid ""
+#~ "There is a suggestion for a page that cant be found any longer.  This "
+#~ "could be that the permalink for the pages had been changed. Remember "
+#~ "Visitors Voice wordpress plugin need permalinks to be set as post name in "
+#~ "order to work properly."
+#~ msgstr ""
+#~ "There is a suggestion for a page that cant be found any longer.  This "
+#~ "could be that the permalink for the pages had been changed. Remember "
+#~ "Visitors Voice wordpress plugin need permalinks to be set as post name in "
+#~ "order to work properly."
+
+#~ msgid "Status of page"
+#~ msgstr "Status of page"
+
+#~ msgid "Modfied"
+#~ msgstr "Modfied"
+
+#~ msgid "Not fixed"
+#~ msgstr "Not fixed"
+
+#~ msgid "Fixed"
+#~ msgstr "Fixed"
+
+#~ msgid "Authorize the Visitors Voice Plugin"
+#~ msgstr "Authorize the Visitors Voice Plugin"
+
+#~ msgid ""
+#~ "Please enter your Visitors Voice User key in the field below and click "
+#~ "'Authorize' to get started. The user key enables One click login to "
+#~ "Visitors Voice dashboard. You will find your user Key at the top of the "
+#~ "<b>My Account</b>settings screen."
+#~ msgstr ""
+#~ "Please enter your Visitors Voice User key in the field below and click "
+#~ "'Authorize' to get started. The user key enables One click login to "
+#~ "Visitors Voice dashboard. You will find your user Key at the top of the "
+#~ "<b>My Account</b>settings screen."
+
+#~ msgid "User Key"
+#~ msgstr "User Key"
+
+#~ msgid ""
+#~ "You will find your API Key at the top of the <b>My Account</b>settings "
+#~ "screen.<br/><br/>"
+#~ msgstr ""
+#~ "You will find your API Key at the top of the <b>My Account</b>settings "
+#~ "screen.<br/><br/>"
+
+#~ msgid "API Key:"
+#~ msgstr "API-nyckel:"
+
+#~ msgid "Visitors Voice API Key:"
+#~ msgstr "Visitors Voice API-nyckel:"
+
+#~ msgid ""
+#~ "If you're having trouble with the Visitors Voice plugin you may clear "
+#~ "your "
+#~ msgstr ""
+#~ "Om du får problem med din konfiguration kanske du måste nollställa din"
+
+#~ msgid ""
+#~ "Thanks for installing the Visitors Voice Plugin for Wordpress. <br/><br/"
+#~ ">Please enter your Visitors Voice API key in the field below and click "
+#~ "'Authorize' to get started.\n"
+#~ "\t\t\t\t\t\tIf you don't have an API Key, you can get one by signing up "
+#~ "for a free account at <a href='http://en.visitorsvoice.com/sign-up-for-"
+#~ "free-trial/' target='_new'>visitorsvoice.com</a>.\n"
+#~ "\t\t\t\t\t\tYou will find your API Key at the top of the <b>My Account</"
+#~ "b>settings screen.<br/><br/>"
+#~ msgstr ""
+#~ "Tack för att du installerar Visitors Voice plugin för Wordpress. <br/><br/"
+#~ ">Var vänlig ange din Visitors Voice API nyckel i fältet nedan och klicka "
+#~ "på 'Authorize'.\n"
+#~ "\t\t\t\t\t\tIf you don't have an API Key, you can get one by signing up "
+#~ "for a free account at <a href='http://en.visitorsvoice.com/sign-up-for-"
+#~ "free-trial/' target='_new'>visitorsvoice.com</a>.\n"
+#~ "\t\t\t\t\t\tYou will find your API Key at the top of the <b>My Account</"
+#~ "b>settings screen.<br/><br/>"
+
+#~ msgid ""
+#~ "We have found suggestions for 1 page that doesnt exist any longer.  This "
+#~ "could be that the permalink for the pages had been changed. Remember "
+#~ "Visitors Voice wordpress plugin need permalinks to be set as post name in "
+#~ "order to work properly."
+#~ msgstr ""
+#~ "Visitors Voice har hittat förslag för en sida som inte kan hittas längre. "
+#~ "Det kan bero på att permalänken har ändrats. Kom ihåg att Visitors Voice "
+#~ "behöver permalänkar satta till titel för att fungera som tänkt."
